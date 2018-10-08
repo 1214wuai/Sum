@@ -1,0 +1,4 @@
+﻿  test.c
+d:\c\practice\project7 输出加一起等于某数的两个下标\project7 输出加一起等于某数的两个下标\test.c(16): warning C4172: 返回局部变量或临时变量的地址: arr
+d:\c\practice\project7 输出加一起等于某数的两个下标\project7 输出加一起等于某数的两个下标\test.c(22): warning C4172: 返回局部变量或临时变量的地址: arr
+  Project7 输出加一起等于某数的两个下标.vcxproj -> D:\c\practice\Project7 输出加一起等于某数的两个下标\Debug\Project7 输出加一起等于某数的两个下标.exe
